@@ -3,8 +3,8 @@ A web-based VSU Market Directory designed to help students, faculty, staff, and 
 
 | **Internal Release Code** | **Date Released** |
 |---------------------------|------------------|
-| HG.010.001                | 2025-02-24       |
-| HG.010.002                | 2025-03-11       |
+| HG.010.000                | 2025-02-24       |
+| HG.010.001                | 2025-03-11       |
 | ...                       | ...              |
 
 ## HG.010.001 Release Notes
